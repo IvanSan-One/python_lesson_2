@@ -1,7 +1,6 @@
-# Математические операции---------
-#---------------------------------
+#
 
-'''
+
 a = input('First number')
 b = input('Second number')
 
@@ -9,8 +8,7 @@ a = int(a)
 b = int(b)
 
 
-
-print(a + b)
+print(a+b)
 print(a - b)
 print(a * b)
 result = a / b
@@ -18,7 +16,7 @@ print(type(result))
 print(result)
 
 print(a ** 2)
-'''
+
 # Логические операции
 a = True
 b = False
